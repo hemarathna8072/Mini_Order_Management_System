@@ -1,0 +1,64 @@
+{
+  "hash": "60e458f3",
+  "configHash": "de85a72d",
+  "lockfileHash": "0830b480",
+  "browserHash": "dc70d0f8",
+  "optimized": {
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.mjs",
+      "file": "@mui_material.js",
+      "fileHash": "98debd42",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.mjs",
+      "file": "@mui_material_styles.js",
+      "fileHash": "348724ee",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "eed00c9b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "fac3113b",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "d3349644",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c2f0b2c9",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "8e01b41c",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-BoAXSpZd": {
+      "file": "chunk-BoAXSpZd.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-1BZaRNvX": {
+      "file": "react-dom-1BZaRNvX.js",
+      "isDynamicEntry": false
+    },
+    "styles-BZl_6fR-": {
+      "file": "styles-BZl_6fR-.js",
+      "isDynamicEntry": false
+    }
+  }
+}
