@@ -12,4 +12,4 @@ Run the backend server - npm start
 💻 Frontend Setup
 Navigate to frontend folder - cd frontend
 Install dependencies - npm install
-Run the frontend - npm start
+Run the frontend - npm run dev
